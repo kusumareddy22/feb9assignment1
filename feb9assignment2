@@ -1,0 +1,12 @@
+#To find whether the given number is even or odd
+a=int(input('enter a'))
+if(a%2)==0:
+    print('the number is even,')
+else:
+    print('the number is odd,')
+     
+     
+output
+entera20
+the number is  even
+   
